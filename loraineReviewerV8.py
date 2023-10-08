@@ -1,3 +1,5 @@
+# Personal project for SO
+# Will keep adding features if SO asks lmao
 import random
 import tkinter as tk
 import json
