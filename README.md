@@ -1,6 +1,6 @@
 ########################### Personal project for SO to help her study :) ###########################  
 
-###### Note that all the files save (JSON, MP3, DOCX) are all saved in the same folder this program is saved to. Ex: if the program was saved on Downloads/Reviewer then the other files will be saved there as well. ######                                                                                  
+####### Note that all the files saves (JSON, MP3, DOCX) are all saved in the same folder this program is saved to. Ex: if the program was saved on Downloads/Reviewer then the other files will be saved there as well. #######                                                                                  
 
 The Notes Reviewer tool is designed to help users create and review notes for various subjects. It allows users to input questions and answers, including text-based questions and visual questions (images). Users can then review these notes in a quiz-like format to test their knowledge. Additionally, the tool provides functionalities to export notes to a Word document, save notes to JSON format for future reference, and even save notes as MP3 files for audio playback. The saved JSON notes can also be uploaded to another project, the quizlet app website (https://codecc-source.github.io/quizletAppTest/), this can be accessed via mobile and user/s can do a quizlet on the go.
 
